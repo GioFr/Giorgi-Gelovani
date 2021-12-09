@@ -31,6 +31,6 @@ First of all we choose the region of interest which will be used as a background
 
 After that we find the maximum euclidean distance between the center of the palm and the most extreme points of the convex hull, later it will be used to create a circle with 80% radius of the max euclidean distance between center point and outermost points. And finally we loop through the contours to see if we count any more fingers.
 
-The results are given below.
+The results are given below. Altough it works fine, the method is not robust to noise.
 
 <img src='images/1.png' width='140'> <img src='images/2.png' width='140'> <img src='images/3.png' width='140'> <img src='images/4.png' width='140'> <img src='images/5.png' width='140'>
