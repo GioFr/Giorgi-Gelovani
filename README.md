@@ -12,9 +12,6 @@ Firstly the noise has been added to the image data and afterwards it has been re
 
 CNN achieved the accuracy of 0,99.
 
-The image data from MNIST before and after adding the noise looks as shown below
-![](/images/Added%20noise.png)
-
-After applying CAE to MNIST data we get well recovered/denoised images,which is shown below
+After applying CAE to noisy MNIST data we get well recovered/denoised images,which is shown below
 ![](/images/Denoised.png)
 
