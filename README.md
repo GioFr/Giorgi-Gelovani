@@ -18,6 +18,9 @@ After applying CAE to noisy MNIST data we get well recovered/denoised images,whi
 ---
 ## Counting Fingers using Convex Hull
 
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/GioFr/Counting_Fingers)
+
+
 In this notebook we are using Convex Hull algorithm from OpenCv to count fingers. 
 This is a capstone project of the udemy course developed by Jose Portilla.
 
