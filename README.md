@@ -33,4 +33,4 @@ After that we find the maximum euclidean distance between the center of the palm
 
 The results are given below.
 
-<img src='images/1.png' width='120'> <img src='images/2.png' width='120'> <img src='images/3.png' width='120'> <img src='images/4.png' width='120'> <img src='images/5.png' width='120'>
+<img src='images/1.png' width='140'> <img src='images/2.png' width='140'> <img src='images/3.png' width='140'> <img src='images/4.png' width='140'> <img src='images/5.png' width='140'>
