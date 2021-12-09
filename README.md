@@ -1,5 +1,5 @@
 # Portfolio
----
+
 On this page you can find some of the projects I've been working on. Projects are all related to Data Science, Machine Learning and different AI topics.
 
 ---
