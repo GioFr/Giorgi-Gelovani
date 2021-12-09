@@ -1,6 +1,6 @@
 # Portfolio
 
-On this page you can find some of the projects I've been working on. Projects are all related to Data Science, Machine Learning and different AI topics.
+On this page I demosntrate some of the projects I have been working on. All the projects are related to Data Science, Machine Learning and different AI topics.
 
 ---
 ## Image Denoising using Convolutional Autoencoders
