@@ -35,7 +35,7 @@ The results are given below. Altough it works fine, the method is not robust to 
 
 <img src='images/1.png' width='160'> <img src='images/2.png' width='160'> <img src='images/3.png' width='160'> <img src='images/4.png' width='160'> <img src='images/5.png' width='160'>
 
-## Titanic - Machine Learning from Disaster
+## Kaggle: Titanic - Machine Learning from Disaster
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/GioFr/Titanic)
 
