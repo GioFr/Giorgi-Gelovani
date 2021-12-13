@@ -16,7 +16,7 @@ After applying CAE to noisy MNIST data we get well recovered/denoised images,whi
 ![](/images/Denoised.png)
 
 ---
-## Counting Fingers using Convex Hull
+## Computer Vision: Counting Fingers using Convex Hull
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/GioFr/Counting_Fingers)
 
