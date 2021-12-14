@@ -69,7 +69,7 @@ Finally several machine learning techniques have been tested to predict the pric
 
 ![](images/priceresults.png)
 
-# Kaggle: Customers Clustering Problem
+# Kaggle: Customers Clustering Problem + PCA
 In this notebook I explore clustering techniques for mall customers analysis. Before applying any clustering some exploratory data analysis is performed to explore dataset closely. While performing EDA one can notice that some of the data is not normally distributed. To check it one can perform hypothesis testing. Plotting the results it is obvious that data is not normally distributed and that the null hypothesis can be rejected. 
 
 ![](images/null.png)
