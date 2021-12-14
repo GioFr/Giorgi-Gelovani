@@ -34,7 +34,9 @@ After that we find the maximum euclidean distance between the center of the palm
 The results are given below. Altough it works fine, the method is not robust to noise.
 
 <img src='images/1.png' width='160'> <img src='images/2.png' width='160'> <img src='images/3.png' width='160'> <img src='images/4.png' width='160'> <img src='images/5.png' width='160'>
+
 ---
+
 ## Kaggle: Titanic - Classification Problem
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/GioFr/Titanic)
@@ -52,7 +54,9 @@ By uncovering such dependencies we can transform data, for example in case of ag
 After the preprocessing now the above mentioned machine learning techniques are applied to predict the results. Accuracy scores of each technique is given below
 
 ![](images/results.png)
+
 ---
+
 ## Kaggle: USA_Housing - Regression Problem
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/GioFr/Pricing)
@@ -68,7 +72,9 @@ The best way to quickly evaluate some dependencies between features is to plot t
 Finally several machine learning techniques have been tested to predict the prices. The performance is evaluated by using R-squared and the results are given below.
 
 ![](images/priceresults.png)
+
 ---
+
 ## Kaggle: Customers Clustering Problem + PCA
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/GioFr/Customers)
