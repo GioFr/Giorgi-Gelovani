@@ -16,7 +16,7 @@ ResNet is a very powerful architecture which exploits the identity mappings on t
 
 In the second part another dataset is used which contains images of different emotions with labels. In this case ResNet is used for classification. Finally both architechtures are combined to detect keypoints and then classify the images according to different expressions. The results are plotted below
 
-![](images/happy.png)
+<img src='images/happy.png' width='700'>
 ---
 
 ## Image Denoising using Convolutional Autoencoders
