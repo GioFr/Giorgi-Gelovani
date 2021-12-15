@@ -4,7 +4,7 @@ On this page I demosntrate some of the projects I have been working on. All the 
 
 ---
 
-# ResNet - Segmentation and Classification
+## ResNet - Segmentation and Classification
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/GioFr/Emotions)
 
