@@ -12,11 +12,11 @@ In this notebook I explore some deep learning techniques for detection and class
 
 ResNet is a very powerful architecture which exploits the identity mappings on top of CNN and by using skipping connections property it deals with the impacts of vanishing gradients.
 
-<img src='images/res.png' width='200'> <img src='images/face.png' width='600'> 
+<img src='images/res.png' width='100'> <img src='images/face.png' width='400'> 
 
 In the second part another dataset is used which contains images of different emotions with labels. In this case ResNet is used for classification. Finally both architechtures are combined to detect keypoints and then classify the images according to different expressions. The results are plotted below
 
-<img src='images/happy.png' width='700'>
+<img src='images/happy.png' width='500'>
 ---
 
 ## Image Denoising using Convolutional Autoencoders
