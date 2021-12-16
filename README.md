@@ -37,7 +37,7 @@ In the second part another dataset is used which contains images of different em
 
 ---
 
-## Image Denoising using Convolutional Autoencoders
+## Image Denoising using Convolutional Autoencoders (CAE)
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/GioFr/CAE)
 
