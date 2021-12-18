@@ -139,7 +139,7 @@ Given that Kmeans, for example, assumes that the data is normally distributed it
 
 ---
 
-# Variational Autoencoders (VAE)
+## Variational Autoencoders (VAE)
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/GioFr/VAE)
 
