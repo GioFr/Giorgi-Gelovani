@@ -136,3 +136,21 @@ In this notebook I explore clustering techniques for mall customers analysis. Be
 Given that Kmeans, for example, assumes that the data is normally distributed it is suggested to transform data to fit the desired distribution. After performing all the neccessary data preprocessing, now it is time to apply some clustering techniques such as Kmeans and Hierarchical Clustering. To be able to plot the results one has to perform some dimentionality reduction and reduce the number of features by combining them into new features that share similarities. Finally results are plotted in 3D space where we can clearly see the uncovered 6 clusters from the data.
 
 ![](images/Kmeans.png) 
+
+---
+
+# Variational Autoencoders (VAE)
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/GioFr/VAE)
+
+In this notebook I explore variational Autoencoders (VAE) with Mnist's fashion dataset. Variational autoencoders are meant to compress the input information into a constrained multivariate latent distribution (encoding) to reconstruct it as accurately as possible (decoding). 
+
+<img src='images/vae.png' width='800'>
+
+So the model learns the dataset which contains images of different clothes. The objective is to reconstruct the image using mean and variance of desired output. Two different loss functions are used which is finally combined into one total loss function. The results of some of the reconstructed images are given below
+
+<img src='images/reconstructedclothes.png' width='800'>
+
+If we want to reconstruct an image of a particular piece of clothes than we can first enocode the respective image to get the values of mean and variance and using these values later it is possible to decode it and reconstruct and image. The result is given below.
+
+<img src='images/dress.png' width='800'>
