@@ -101,7 +101,7 @@ In this notebook I explore Generative Adversarial Networks (GAN). As for a train
 
 While the model is being trained for each second epoch the results are plotted to track the progress. On the image given below there's a clear improvement of the generated data, we can clearly see that the images on the second plot are very similar to original images from Mnist fashion dataset. On the first image the results from earlier epoch are given, while on the second one the results from final train are demonstrated.
 
-<img src='images/gnabefore.png' width='200'> <img src='images/gnaafter.png' width='200'>
+<img src='images/gnabefore.png' width='50'> <img src='images/gnaafter.png' width='50'>
 
 ---
 
