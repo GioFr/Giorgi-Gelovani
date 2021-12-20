@@ -91,24 +91,6 @@ After the preprocessing now the above mentioned machine learning techniques are 
 
 ---
 
-## Kaggle: USA_Housing - Regression Problem
-
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/GioFr/Pricing)
-
-In this notebook we perform some data analysis on USA_Housing dataset provided on Kaggle. This is clearly a regression problem where we are supposed to predict the cantinuous value of the house price. 
-
-Before applying any machine learning technique, first data is analysed and preprossed. In the data there is no missing value which makes it so much easier to preprocess the data. In addition to that there are only 6 independent variable among which is an address feature. The pnly useful information that we can subtract from the address feature is the State. 
-
-The best way to quickly evaluate some dependencies between features is to plot the heatmap that show some correlations between data.
-
-![](images/heatmap.png)
-
-Finally several machine learning techniques have been tested to predict the prices. The performance is evaluated by using R-squared and the results are given below.
-
-![](images/priceresults.png)
-
----
-
 ## Generative Adversarial Network (GNA)
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/GioFr/GNA)
@@ -168,3 +150,21 @@ So the model learns the dataset which contains images of different clothes. The 
 If we want to reconstruct an image of a particular piece of clothes than we can first enocode the respective image to get the values of mean and variance, and using these values later it is possible to decode it and reconstruct and image. The result is given below.
 
 <img src='images/dress.png' width='800'>
+
+---
+
+## Kaggle: USA_Housing - Regression Problem
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/GioFr/Pricing)
+
+In this notebook we perform some data analysis on USA_Housing dataset provided on Kaggle. This is clearly a regression problem where we are supposed to predict the cantinuous value of the house price. 
+
+Before applying any machine learning technique, first data is analysed and preprossed. In the data there is no missing value which makes it so much easier to preprocess the data. In addition to that there are only 6 independent variable among which is an address feature. The pnly useful information that we can subtract from the address feature is the State. 
+
+The best way to quickly evaluate some dependencies between features is to plot the heatmap that show some correlations between data.
+
+![](images/heatmap.png)
+
+Finally several machine learning techniques have been tested to predict the prices. The performance is evaluated by using R-squared and the results are given below.
+
+![](images/priceresults.png)
