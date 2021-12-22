@@ -168,3 +168,18 @@ The best way to quickly evaluate some dependencies between features is to plot t
 Finally several machine learning techniques have been tested to predict the prices. The performance is evaluated by using R-squared and the results are given below.
 
 ![](images/priceresults.png)
+
+---
+
+## Q-learning - Reinforcement learning 
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/GioFr/Qlearning)
+
+In this project I explore Q-learning for optimizing warehouse flows. We are given a task to find the shortest path from one point to another in a grid given below.
+
+<img src='images/labyrinth.png' width='500'>
+
+To solve this task a reinforcement technique is used. Q-learning is based on Markov's decision processes. Here the problem is solved in three steps, where in the first place environment is defined, then Q-learning algorithm is implemented and finally it is put into a production. We can also define an intermidiary point where the robot needs to pass before reaching the destination. 
+
+Q-learning is a model-free reinforcement learning algorithm this means it can handle problems with stochastic transitions and rewards without requiring adaptations. 
+
