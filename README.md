@@ -117,7 +117,7 @@ First of all some data exploration needs to be done to learn more about data. Fo
 
 Afterwards some preprocessing is being applied to remove from tweets unnecessary words or punctuation. This step makes it easier for algorithms to process the data and extract only relevant information from tweets. Then scikit-learn's CountVectorizer is uded to count the words in each tweet and turn them into data that algorithms can process.
 
-Finally some classification algorithms are applied such as Ridge Classifier and Naive Bayes to predict the classes, where ridge classifier showed high performance.
+Finally some classification algorithms are applied, such as Ridge Classifier and Naive Bayes to predict the classes, where ridge classifier showed high performance.
 
 ---
 
